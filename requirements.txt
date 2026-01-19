@@ -1,0 +1,10 @@
+PySide6
+playwright
+pyqtdarktheme
+colorama
+aiohttp
+playwright-recaptcha
+requests
+SpeechRecognition
+# pyaudio
+undetected-playwright
